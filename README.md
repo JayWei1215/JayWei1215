@@ -4,12 +4,14 @@
 
 <!-- Here are some ideas to get you started: -->
 
-- 🚀 Now I'm exploring the open source world!
-- 💼 I worked as an intern at
-  - Backend Development: Short Video@Meituan
-  - Backend Development: Search & Recommendation@Yidianzixun
-- 🎯 Now focus on the Gradle community.
-- 💬 Ask me about Java / Kotlin / C++.
-- 📫 How to reach me: 
-  - Email: jaywei011215@gmail.com
-  - Wechat: A15918987603
+- 🚀 Now I'm building AI agents for real-world life.
+- 💼 Work experience:
+    - Backend Engineer, Recommendation System Architecture @ Meituan
+    - Senior Engineer, Payment System @ Bitget
+- 🌟 Currently CEO of Shenzhen Xingchen Jiyuan Technology, focusing on travel-planning agents.
+- 🎯 Bringing AI into everyday life.
+- 💬 Ask me about Java / Kotlin / C++ / Python / AI Agents.
+- 📫 How to reach me:
+    - Email: jaywei011215@gmail.com
+    - WeChat: Jay15802415641
+
